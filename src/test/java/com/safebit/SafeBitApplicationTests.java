@@ -1,4 +1,4 @@
-package com.goobit.safebit;
+package com.safebit;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
